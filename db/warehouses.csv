@@ -1,0 +1,64 @@
+id,name,location,latitude,longitude,rating,temperature,capacity_sq_ft
+3E431DDF,Warehouse one,Leeds,53.77,-1.55,0,chilled,32073
+FDA79DB3,Warehouse two,Kilkeel,53.35,-6.26,3.3,chilled,26509
+D92036DF,Warehouse three,Northolt,51.55,-0.35,2.0,chilled,51084
+CD46E80B,Warehouse five,Woolwich,51.5,0.04,3.0,ambient,5049
+B76A1E54,Warehouse six,Colnbrook,51.47,-0.51,0,frozen,38308
+C27C6617,Warehouse seven,Rugby,52.4,-1.21,5.0,not_controlled,83090
+56AB7C38,Warehouse nine,Houghton Regis,51.9,-0.51,3.3,ambient,36651
+07926DDE,Warehouse twelve,Motherwell,55.78,-3.98,5.0,ambient,20971
+5DFE844D,Warehouse thirteen,Edinburgh,55.95,-3.19,3.3,ambient,70992
+B3A5D0C5,Warehouse ten,Doncaster,53.52,-1.13,4.3,chilled,53698
+EC480F67,Warehouse fifteen,Water Orton,52.52,-1.71,3.1,chilled,17047
+42FD8C28,Warehouse fourteen,Curdworth,52.53,-1.76,0,frozen,41501
+72D39518,Warehouse twenty,Bonnybridge,56.0,-3.89,4.0,chilled,86579
+9CA721FE,Warehouse nineteen,Kingswood,51.43,-2.54,0,not_controlled,73928
+EB934CEB,Warehouse twenty-three,Skellingthorpe,53.2,-0.6,1.5,not_controlled,27225
+71F6FDD7,Warehouse twenty-four,Liverpool,53.44,-2.93,2.7,chilled,31327
+29202E4D,Warehouse twenty-five,Keynsham,51.41,-2.48,3.0,ambient,48143
+B9CD36F8,Warehouse thirty-two,South Luffenham,52.61,-0.6,2.9,ambient,17303
+0C0BA3C9,Warehouse twenty-nine,Aylesford,51.31,0.45,4.0,not_controlled,25263
+9B21204C,Warehouse twenty-eight,Earls Barton,52.3,-0.79,0,not_controlled,46397
+25D52F57,Warehouse thirty-three,Blaby,52.57,-1.18,3.1,chilled,17804
+98314B7A,Warehouse thirty-four,Basingstoke,51.27,-1.09,3.4,chilled,35378
+305D92F5,Warehouse thirty-seven,Hendon,51.57,-0.23,2.1,ambient,14759
+E8381E72,Warehouse thirty-eight,Hale,53.35,-2.87,2.5,frozen,74184
+93ED6E8B,Warehouse thirty-six,Halesowen,52.45,-2.05,3.8,chilled,92525
+1359036A,Warehouse thirty-nine,Pilsley,53.19,-1.35,0,chilled,90905
+B0B33D27,Warehouse forty-three,Harwich,51.95,1.32,3.4,chilled,73754
+67354114,Warehouse forty-one,Corby,52.5,-0.65,0,chilled,54396
+4923AA37,Warehouse forty-two,Yaxley,52.54,-0.31,3.5,chilled,70601
+6B2EEFFA,Warehouse forty-four,Harwich,51.95,1.32,3.0,chilled,49669
+CFC13C50,Warehouse forty-five,Longfield,51.41,0.26,3.2,chilled,93512
+0BAC54E4,Warehouse forty-seven,Normandy,51.27,-0.66,2.8,ambient,69881
+6BA1054A,Warehouse fifty-one,Wembley,51.54,-0.31,2.2,ambient,82029
+BF862C21,Warehouse forty-nine,Helmsley,54.23,-1.05,2.5,frozen,13533
+67ACA7A2,Warehouse forty-eight,Sunbury-on-Thames,51.42,-0.42,3.4,not_controlled,91911
+25B505A3,Warehouse forty-six,Lowestoft,51.65,7.79,3.0,ambient,82910
+99C434B8,Warehouse fifty,Manchester,53.48,-2.24,3.4,not_controlled,96989
+324748A1,Warehouse fifty-three,Hardingstone,52.22,-0.86,2.8,frozen,39918
+EF89E8D9,Warehouse fifty-six,Clayton-le-Woods,53.73,-2.67,3.3,frozen,2591
+F3A35AA8,Warehouse fifty-four,Lutterworth,52.46,-1.24,0,not_controlled,99548
+5C6E473F,Warehouse fifty-five,Northampton,52.26,-0.95,2.7,chilled,7226
+E7DD86C5,Warehouse fifty-seven,Bolton,53.6,-2.44,2.8,not_controlled,45585
+3B646346,Warehouse fifty-eight,Clayton-le-Woods,53.73,-2.67,4.0,not_controlled,58323
+A78AE49E,Warehouse four,Newcastle upon Tyne,54.98,-1.62,4.2,not_controlled,61204
+BDB9FBB6,Warehouse sixty,Elvington,53.92,-0.96,3.2,not_controlled,84961
+477578AA,Warehouse sixty-two,Hull,53.75,-0.28,3.0,frozen,17569
+285F2048,Warehouse sixty-three,Selby,53.78,-1.05,4.0,ambient,34831
+A00E0A7F,Warehouse sixty-four,Kirkby,53.48,-2.86,2.5,frozen,47968
+B412E3C4,Warehouse eight,Middlewich,53.19,-2.44,2.0,frozen,72414
+28803925,Warehouse eleven,Oundle,52.47,-0.39,2.1,not_controlled,1676
+DF3136D6,Warehouse sixteen,Aylesford,51.31,0.45,0,chilled,74322
+B2CA222D,Warehouse seventeen,Dudley,52.5,-2.09,3.0,ambient,92454
+A06DE1C7,Warehouse twenty-one,Bathgate,55.88,-3.62,3.2,frozen,68350
+F203BB91,Warehouse eighteen,Winsford,53.2,-2.5,3.8,not_controlled,98115
+41E767E9,Warehouse sixty-one,Stourport-on-Severn,52.33,-2.18,3.6,frozen,14787
+AC7DCF07,Warehouse twenty-two,Croft,53.43,-2.52,3.0,not_controlled,23133
+AB3D4A6D,Warehouse twenty-six,Wavendon,52.04,-0.68,2.8,not_controlled,89287
+BB66E8D4,Warehouse twenty-seven,Cannock,52.7,-2.02,3.0,chilled,37503
+B2E61D10,Warehouse thirty,Lowestoft,51.34,12.39,3.6,not_controlled,93441
+8791797D,Warehouse thirty-five,Coatbridge,55.87,-4.04,5.0,ambient,92721
+CC3CC63F,Warehouse forty,Corby,52.51,-0.7,3.1,not_controlled,85413
+F55381AF,Warehouse fifty-two,Woolwich,51.49,0.08,4.1,chilled,82475
+52B7434C,Warehouse fifty-nine,Ripon,54.18,-1.48,3.7,ambient,69470
